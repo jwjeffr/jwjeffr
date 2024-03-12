@@ -9,10 +9,12 @@ My name is Jacob and I am currently a Ph.D. student in Materials Science and Eng
 - Multi-scale modeling
 - Statistical mechanics
 
-I am also an officer for Clemson University's premier Esports organization: Clemson Esports. Here, I take on more traditional software engineering projects, such as creating and maintaining bots for the organization's Discord.
+I am also an officer for Clemson University's premier Esports organization: Clemson Esports. Here, I take on more traditional software engineering projects, such as creating and maintaining bots for the organization's [Discord server](https://discord.gg/REnHqP5Fq4).
 
 🌱 I am currently working on:
 
 - Transport and grain boundary segregation in High Entropy Alloys 
+- Multi-scale modeling of radiation-induced segregation
+- Diffusion on rough potential energy surfaces
 - Non-equilibrium vacancy transport in tungsten
 - Kinetic Monte Carlo simulations of organic nanocrystalline growth
