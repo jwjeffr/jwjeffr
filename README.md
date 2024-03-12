@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jacob and I am currently a Ph.D. student in Materials Science and Engineering in the [MUEXLY group](https://github.com/muexly) at Clemson University. I am also a graduate student in the [Theoretical Division](https://www.lanl.gov/org/ddste/aldsc/theoretical/index.php) at Los Alamos National Laboratory.
+My name is Jacob and I am currently a Ph.D. student in Materials Science and Engineering in the [MUEXLY group](https://github.com/muexly) at Clemson University. I am also a graduate student in the [Theoretical Division](https://www.lanl.gov/org/ddste/aldsc/theoretical/index.php) at Los Alamos National Laboratory. My ORCID and Google scholar profiles can be respectively found [here](https://orcid.org/0000-0002-8852-6765) and [here](https://scholar.google.com/citations?hl=en&user=GQTW9eUAAAAJ).
 
 🌟 I specialize in:
 
