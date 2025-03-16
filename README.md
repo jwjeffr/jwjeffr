@@ -20,3 +20,5 @@ I am also an officer for Clemson University's premier Esports organization: Clem
 - Diffusion on rough potential energy surfaces
 - Non-equilibrium vacancy transport in tungsten
 - Kinetic Monte Carlo simulations of organic nanocrystalline growth
+
+[![Rat Repellent](https://img.shields.io/badge/Now_Playing-Rat_Repellent-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/7IIO30q7JwVv9EOJzkJWch)
